@@ -67,7 +67,7 @@ All eleven tasks must be complete to move onto the final stage! Be sure to expan
   
 </details>
 
-## Prizes
+## 🏆 Prizes
 Everyone to create an Issue on this repository and complete all tasks in the scavenger hunt will be entered into a drawing for GitHub swag. Three winners will be announced at the closing ceremony at `x o'clock on Sunday`. Can't make the closing ceremony? No worries! We'll get in touch via social media or email.
 
 ![scavengerhunt](https://user-images.githubusercontent.com/6633808/90445043-dc5b3280-e093-11ea-8440-c1de3b722115.png)
