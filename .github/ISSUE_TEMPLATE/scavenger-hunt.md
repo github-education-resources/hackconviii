@@ -2,8 +2,8 @@
 name: Scavenger Hunt
 about: This issue template is used to enter the scavenger hunt raffle. All tasks must
   be completed to enter.
-title: ''
-labels: ''
+title: 'Entry: [insert-name]'
+labels: 'Needs Review'
 assignees: ''
 
 ---
