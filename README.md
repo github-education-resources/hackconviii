@@ -8,7 +8,7 @@ Here you'll find everything you need to participate in the GitHub Education Scav
 
 ## 🗺 Tasks
 
-All eleven tasks must be complete to move onto the final stage! Be sure to expand each task for details on how to verify the task has been completed. Questions? Create an Issue with the tag "Question" and we'll help yah out.
+All eleven tasks must be complete to move onto the final stage! Be sure to expand each task for details on how to verify the task has been completed. Questions? Start a `Discussion` in the tab next to `Pull Requests` and we'll help yah out.
 
 <details>
 <summary>Say hello 👋</summary>
