@@ -4,7 +4,7 @@ Here you'll find everything you need to participate in the GitHub Education Scav
 
 1. Complete all tasks in the scavenger hunt
 2. Create an Issue verifying you’ve completed all of the steps
-3. Follow the instructions given to you by the GitHub team before `x o'clock`
+3. Follow the instructions given to you by the GitHub team before `12:00 PM Pacific on Sunday`
 
 ## 🗺 Tasks
 
@@ -54,7 +54,7 @@ All eleven tasks must be complete to move onto the final stage! Be sure to expan
 </details>
 
 ## 🏆 Prizes
-Everyone to create an Issue on this repository and complete all tasks in the scavenger hunt will be entered into a drawing for GitHub swag. Three winners will be announced at the closing ceremony at `x o'clock on Sunday`. Can't make the closing ceremony? No worries! We'll get in touch via social media or email.
+Everyone to create an Issue on this repository and complete all tasks in the scavenger hunt will be entered into a drawing for GitHub swag. Three winners will be announced at the closing ceremony at `12:00 PM Pacific on Sunday`. Can't make the closing ceremony? No worries! We'll get in touch via social media or email.
 
 ![scavengerhunt](https://user-images.githubusercontent.com/6633808/90445043-dc5b3280-e093-11ea-8440-c1de3b722115.png)
 
