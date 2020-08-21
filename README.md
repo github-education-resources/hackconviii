@@ -53,20 +53,6 @@ All eleven tasks must be complete to move onto the final stage! Be sure to expan
   
 </details>
 
-<details>
-  <summary>TBD: Tag @GitHubEducation on social media with a filter or some sort of background</summary>
-  
-  * TBD
-  
-</details>
-
-<details>
-  <summary>TBD: Find an easter egg in the event website</summary>
-  
-  * TBD
-  
-</details>
-
 ## 🏆 Prizes
 Everyone to create an Issue on this repository and complete all tasks in the scavenger hunt will be entered into a drawing for GitHub swag. Three winners will be announced at the closing ceremony at `x o'clock on Sunday`. Can't make the closing ceremony? No worries! We'll get in touch via social media or email.
 
