@@ -37,13 +37,13 @@ All missions must be complete to move onto the final stage! Be sure to expand ea
   <details>
   <summary>Show us your "view" 🖼 </summary>
   
- *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and you're hanging out outside? Let's see what HackCon looks like in your slice on the universe. Upload a picture to the [Discussion](https://github.com/education/hackconviii/discussions) to verify this mission.
+ *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and you're hanging out outside? Let's see what HackCon looks like in your slice on the universe. Upload a picture to the [Discussion](https://github.com/education/hackconviii/discussions/5) to verify this mission.
   </details>
   
 <details>
   <summary>Where in the world? 🌍 </summary>
   
- *  Major League Hacking is a global community of hackers and community builders, and we are so excited that this year's HackCon is accessible from anywhere. Share something about your part of the world by taking a picture that represents your culture or location. For example, @elisemoe lives in Seattle so she might share a picture of an umbrella. This mission is verified by adding your image to the `Where in the world 🌍` [Discussion](https://github.com/education/hackconviii/discussions)
+ *  Major League Hacking is a global community of hackers and community builders, and we are so excited that this year's HackCon is accessible from anywhere. Share something about your part of the world by taking a picture that represents your culture or location. For example, @elisemoe lives in Seattle so she might share a picture of an umbrella. This mission is verified by adding your image to the `Where in the world 🌍` [Discussion](https://github.com/education/hackconviii/discussions/4)
 </details>
 
 <details>
