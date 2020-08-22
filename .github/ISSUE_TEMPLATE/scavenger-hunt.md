@@ -4,7 +4,7 @@ about: This issue template is used to enter the scavenger hunt raffle. All tasks
   be completed to enter.
 title: 'Scavenger Hunt Entry: [insert-name]'
 labels: Needs Review
-assignees: ''
+assignees: elisemoe
 
 ---
 
