@@ -3,7 +3,7 @@ name: Scavenger Hunt
 about: This issue template is used to enter the scavenger hunt raffle. All tasks must
   be completed to enter.
 title: 'Scavenger Hunt Entry: [insert-name]'
-labels: 'Needs Review'
+labels: Needs Review
 assignees: ''
 
 ---
@@ -21,11 +21,14 @@ Please upload your Octocat here.
 Upload the selfie of you and a GitHub team member or Campus Expert here.
 
 **Show us your "view" 🖼**
-Upload a picture of your conference view.
+- [ ] I've uploaded my view to the Discussion
 
 **Where in the world? 🌍**
-Upload a picture of your part of the world.
+- [ ] I've uploaded a picture to the Discussion
 
-**Attend at least one GitHub Education lightning talk ⚡️**
+**Attend at least one lightning talk or panel featuring a Campus Expert ⚡️**
 Which talk did you attend?
 Tell us a little bit about something you learned or were surprised by.
+
+🥚
+Share with us a screenshot of what you found 😁 be sure to include your computer's clock in the screenshot to verify you've found the surprise yourself 🎉
