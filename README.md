@@ -37,7 +37,7 @@ All missions must be complete to move onto the final stage! Be sure to expand ea
   <details>
   <summary>Show us your "view" 🖼 </summary>
   
- *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and your hanging out outside? Let's see what HackCon looks like in your slice on the universe. Upload a picture to the [Discussion](https://github.com/education/hackconviii/discussions) to verify this mission.
+ *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and you're hanging out outside? Let's see what HackCon looks like in your slice on the universe. Upload a picture to the [Discussion](https://github.com/education/hackconviii/discussions) to verify this mission.
   </details>
   
 <details>
