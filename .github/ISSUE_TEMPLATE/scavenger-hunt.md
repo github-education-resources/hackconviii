@@ -31,4 +31,6 @@ Which talk did you attend?
 Tell us a little bit about something you learned or were surprised by.
 
 🥚
-Share with us a screenshot of what you found 😁 be sure to include your computer's clock in the screenshot to verify you've found the surprise yourself 🎉
+Share a screenshot of what you found with `@elisemoe from Github` on Discord 😁 be sure to include your computer's clock in the screenshot to verify you've found the surprise yourself 🎉
+
+- [ ] I have shared a screenshot of the 🥚 with @elisemoe on Discord
