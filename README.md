@@ -47,9 +47,9 @@ All missions must be complete to move onto the final stage! Be sure to expand ea
 </details>
 
 <details>
-  <summary>Attend at least one GitHub Education lightning talk ⚡️ </summary>
+  <summary>Attend at least one lightning talk or panel featuring a Campus Expert ⚡️</summary>
   
-  * What did you learn? Write a sentance or two about something that stood out, or something you learned.
+  * This can be any of the sessions on our [event page](https://education.github.com/hackcon) ✨ What did you learn? Write a sentance or two about something that stood out, or something you learned in the Issue.
   
 </details>
 
