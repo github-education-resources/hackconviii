@@ -1,14 +1,14 @@
 # Welcome to the GitHub Scavenger Hunt 👋 🕵️‍♀️
 
-Here you'll find everything you need to participate in the GitHub Education Scavenger Hunt. Once you've completed each of the tasks, create an Issue on this repository using the `Scavenger Hunt` template to describe each task. We'll verify the tasks are completed and someone from the GitHub Education team will **leave a comment with your final instructions**. Only when this final task is complete will you be entered into the drawing for GitHub swag ✨
+Here you'll find everything you need to participate in the GitHub Education Scavenger Hunt. Once you've completed each of the missions, create an Issue on this repository using the `Scavenger Hunt` template to verify they've been completed. We'll check the missions are completed and someone from the GitHub Education team will **leave a comment with your final instructions**. Only when this final mission is complete will you be entered into the drawing for GitHub swag ✨
 
-1. Complete all tasks in the scavenger hunt
+1. Complete all missions in the scavenger hunt
 2. Create an Issue verifying you’ve completed all of the steps
 3. Follow the instructions given to you by the GitHub team before `12:00 PM Pacific on Sunday`
 
-## 🗺 Tasks
+## 🗺 Missions
 
-All eleven tasks must be complete to move onto the final stage! Be sure to expand each task for details on how to verify the task has been completed. Questions? Start a `Discussion` in the tab next to `Pull Requests` and we'll help yah out.
+All missions must be complete to move onto the final stage! Be sure to expand each mission for details on how to verify the mission has been completed. Questions? Start a [Discussion](https://github.com/education/hackconviii/discussions) we'll help yah out.
 
 <details>
 <summary>Say hello 👋</summary>
@@ -19,13 +19,13 @@ All eleven tasks must be complete to move onto the final stage! Be sure to expan
 <details>
 <summary>Make new friends 👯‍♀️</summary>
   
- * Now that we've done some catching up, let's make a new friend. Choose one name (at random or someone you've wanted to connect with) and introduce yourself. Let them know why you love your student community and ask a question about theirs :) To complete this task you'll need to send us a screenshot of your intro. No need to include their response!
+ * Now that we've done some catching up, let's make a new friend. Choose one name (at random or someone you've wanted to connect with) and introduce yourself. Let them know why you love your student community and ask a question about theirs :) To complete this mission you'll need to send us a screenshot of your intro. No need to include their response!
 </details>
 
 <details>
 <summary>Build your alter ego Octocat</summary>
   
- * Head on over to the [Octocat Generator](https://myoctocat.com/) and create an Octocat representing your wonderful self. Tag `@GitHubEducation` and use the hashtag `#HackCon` on Twitter for a chance to be featured in the GitHub booth! Upload your Octocat to the Issue in order to complete this one.
+ * Head on over to the [Octocat Generator](https://myoctocat.com/) and create an Octocat representing your wonderful self. Tag `@GitHubEducation` and use the hashtag `#HackCon` on Twitter for a chance to be featured! Upload your Octocat to the Issue in order to complete this one.
 </details>
 
 <details>
@@ -37,19 +37,26 @@ All eleven tasks must be complete to move onto the final stage! Be sure to expan
   <details>
   <summary>Show us your "view" 🖼 </summary>
   
- *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and your hanging out outside? Let's see what HackCon looks like in your slice on the universe.
+ *  Share a picture of your “view” at the conference. Laptop on the couch? Maybe the weather's nice and your hanging out outside? Let's see what HackCon looks like in your slice on the universe. Upload a picture to the [Discussion](https://github.com/education/hackconviii/discussions) to verify this mission.
   </details>
   
 <details>
   <summary>Where in the world? 🌍 </summary>
   
- *  Major League Hacking is a global community of hackers and community builders, and we are so excited that this year's HackCon is accessible from anywhere. Share something about your part of the world by taking a picture that represents your culture or location. For example, @elisemoe lives in Seattle so she might share a picture of an umbrella.
+ *  Major League Hacking is a global community of hackers and community builders, and we are so excited that this year's HackCon is accessible from anywhere. Share something about your part of the world by taking a picture that represents your culture or location. For example, @elisemoe lives in Seattle so she might share a picture of an umbrella. This mission is verified by adding your image to the `Where in the world 🌍` [Discussion](https://github.com/education/hackconviii/discussions)
 </details>
 
 <details>
   <summary>Attend at least one GitHub Education lightning talk ⚡️ </summary>
   
   * What did you learn? Write a sentance or two about something that stood out, or something you learned.
+  
+</details>
+
+<details>
+  <summary>🥚 </summary>
+  
+  * You'll know it [when you see it](https://education.github.com/hackcon) 👯‍♀️ Make sure to take a screenshot and upload to the Issue!
   
 </details>
 
