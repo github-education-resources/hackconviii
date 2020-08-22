@@ -56,7 +56,7 @@ All missions must be complete to move onto the final stage! Be sure to expand ea
 <details>
   <summary>🥚 </summary>
   
-  * You'll know it [when you see it](https://education.github.com/hackcon) 👯‍♀️ Make sure to take a screenshot and upload to the Issue!
+  * You'll know it [when you see it](https://education.github.com/hackcon) 👀 Make sure to take a screenshot and upload to the Issue!
   
 </details>
 
