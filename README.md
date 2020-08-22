@@ -63,11 +63,11 @@ All missions must be complete to move onto the final stage! Be sure to expand ea
 ## 🏆 Prizes
 Three winners will be announced at the closing ceremony at `12:00 PM Pacific on Sunday`. Can't make the closing ceremony? No worries! We'll get in touch via social media or email to send you swag.
 
-To win you must -
+To enter the raffle and win, you must -
 
 * Be an attendee at HackCon VIII
 * Complete all of the above missions and create an Issue on this repository
-* Complete one final mission at the GitHub Louge (details will be given as soon as your other missions are verified)
+* Complete one final mission at the GitHub Lounge (details provided as soon as your other missions are verified)
 
 ![scavengerhunt](https://user-images.githubusercontent.com/6633808/90445043-dc5b3280-e093-11ea-8440-c1de3b722115.png)
 
